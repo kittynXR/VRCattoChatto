@@ -2,6 +2,10 @@ Nice chat app that I made for myself using gpt4 to generate UWP boilerplate and 
 
 Will upload to the windows store once Microsoft approves my partner account.
 
+Release package is here if you want to install it:
+
+[Releases](https://github.com/kittynXR/VRCattoChatto/releases)
+
 ![Picture of oauth dialogue.](oauthsetup.png)
 
 ![Picture of connected chat.](connected.png)
