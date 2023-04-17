@@ -4,7 +4,7 @@ Will upload to the windows store once Microsoft approves my partner account.
 
 ![Picture of oauth dialogue.](oauthsetup.png)
 
-![Picture of connected chat.](oauthsetup.png)
+![Picture of connected chat.](connected.png)
 
 Most buttons are toggles.
 
