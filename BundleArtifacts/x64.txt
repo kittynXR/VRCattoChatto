@@ -1,0 +1,3 @@
+MainPackage=C:\Users\kittyn\source\repos\VRCattoChatto\bin\x64\Release\VRCattoChatto_1.0.2.0_x64.msix
+ResourcePack=C:\Users\kittyn\source\repos\VRCattoChatto\bin\x64\Release\VRCattoChatto_1.0.2.0_scale-100.msix
+ResourcePack=C:\Users\kittyn\source\repos\VRCattoChatto\bin\x64\Release\VRCattoChatto_1.0.2.0_scale-400.msix
