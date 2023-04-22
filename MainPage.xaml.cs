@@ -60,7 +60,7 @@ namespace VRCatNet
     public sealed partial class MainPage : Page
     {
         public static readonly DependencyProperty MaxCharactersProperty =
-            DependencyProperty.Register("MaxCharacters", typeof(int), typeof(MainPage), new PropertyMetadata(200));
+            DependencyProperty.Register("MaxCharacters", typeof(int), typeof(MainPage), new PropertyMetadata(500));
 
         private readonly DispatcherTimer typingTimer;
         private bool audioEnabled;
@@ -106,7 +106,7 @@ namespace VRCatNet
 
         private void InitializeOsc()
         {
-            var ipAddress = "10.6.6.6";
+            var ipAddress = "127.0.0.1";
             var port = 9000;
             // Replace the IP and port with your OSC server's IP and port
             oscSender = new UDPSender(ipAddress, port);
